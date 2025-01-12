@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+venv-azure-examify/
+.idea
+.idea/*
 
 # Distribution / packaging
 .Python
